@@ -18,7 +18,7 @@
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-      <img src="[https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" alt="unity" width="45" height="55"/>
