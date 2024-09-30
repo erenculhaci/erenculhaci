@@ -1,6 +1,6 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 <p align="center">
-<a href="https://twitter.com/erenculhaci" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
+<a href="https://x.com/erenculhaci" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
 <a href="https://linkedin.com/in/erenculhaci" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
 <a href="http://discord.com/users/erenculhaci" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="apoorv#4040" height="40" width="30" /></a>&nbsp;
 </p>
@@ -37,7 +37,3 @@
 ![erenculhaci's GitHub stats](https://github-readme-stats.vercel.app/api?username=erenculhaci&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erenculhaci&theme=dark&layout=compact)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=erenculhaci&theme=dark)](https://git.io/streak-stats)
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
