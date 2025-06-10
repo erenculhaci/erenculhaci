@@ -59,12 +59,11 @@
 <!-- Footer or Contact -->
 ## 📫 Let's Connect!
 
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🌐 [Portfolio](https://yourwebsite.com)
-- 📧 erenculhaci@example.com
+- 💼 [LinkedIn](https://linkedin.com/in/erenculhaci)
+- 🌐 [Portfolio](https://erenculhaci.netlify.app)
+- 📧 erenculhaci@gmail.com
 
 ---
 
-> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+> _"Good code is its own best documentation." – Steve McConnell_
 
