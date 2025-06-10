@@ -1,32 +1,70 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+<!-- Banner -->
+<p align="center">
+  <a href="https://github.com/Akshay090/svg-banners">
+    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=I'm%20Eren%20CULHACI%20👨‍💻&width=800&height=400" alt="SVG Banner" />
+  </a>
+</p>
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm a Computer Engineering student studying at Istanbul Technical University in Turkey. 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 👯 You can reach my profiles and get in contact with me.
-- 🧑‍💻 Tech I work on :
+<!-- Greeting -->
+<h1 align="center">Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /></h1>
+
+<!-- About Me -->
+## 👨‍💻 About Me
+
+- 🎓 I'm a **Computer Engineering** student at **Istanbul Technical University**, Turkey.
+- 🌍 Passionate about web software development, AI, and game development.
+- 📬 You can reach out to me via my socials or portfolio.
+- 🛠️ Currently improving my skills in **back-end and front-end engineering**, **cloud deployment**, and **game development**.
+
+---
+
+<!-- Tech Stack -->
+## 🚀 Tech Stack I Work With
 
 <p align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++" width="45" height="55"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="c" width="45" height="55"/>  
-      <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="45" height="55"/>  
-      <img src="https://www.svgrepo.com/show/376350/spring.svg" alt="spring" width="45" height="55"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="flask" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="45" height="55"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" alt="unity" width="45" height="55"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c#" width="45" height="55"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex" width="45" height="55"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="45" height="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="Java" width="45" height="45"/>
+  <img src="https://www.svgrepo.com/show/376350/spring.svg" alt="Spring" width="45" height="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="60" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="60" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="CSS3" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" alt="Unity" width="60" height="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="45" height="45"/>
 </p>
 
 ---
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-![erenculhaci's GitHub stats](https://github-readme-stats.vercel.app/api?username=erenculhaci&theme=dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erenculhaci&theme=dark&layout=compact)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=erenculhaci&theme=dark)](https://git.io/streak-stats)
+
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=erenculhaci&theme=tokyonight&show_icons=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenculhaci&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erenculhaci&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<!-- Footer or Contact -->
+## 📫 Let's Connect!
+
+- 🐦 [Twitter](https://twitter.com/yourhandle)
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🌐 [Portfolio](https://yourwebsite.com)
+- 📧 erenculhaci@example.com
+
+---
+
+> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+
